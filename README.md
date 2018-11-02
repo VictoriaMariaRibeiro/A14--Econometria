@@ -1,1 +1,2 @@
-# A14--Econometria
+# 14-Quebra_Estrutural-_e_Bolhas
+Quebra estrutural e formação de bolhas
